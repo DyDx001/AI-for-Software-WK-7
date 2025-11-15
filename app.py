@@ -46,7 +46,7 @@ if page == "Home":
     st.write(f"**Hello from Ikole, Ekiti!** This app demonstrates the practical projects for this module.")
     #st.image("https.placehold.co/800x300/223344/FFFFFF?text=AI+in+Software+Engineering", use_column_width=True)
     st.markdown("""
-    This application, built by **[Your Name Here]**, showcases two key areas of AI in modern software:
+    This application, built by **Afolabi Abdulahi**, showcases two key areas of AI in modern software:
 
     1.  **Task 1: Edge AI Prototype:** Demonstrates a lightweight, trained `TFLite` model running live inference on sample images. This simulates how a smart device (like a Raspberry Pi) would operate offline.
     
