@@ -40,24 +40,14 @@ This application showcases two main projects:
 To deploy the Edge AI prototype on a Raspberry Pi:
 
 1. Install dependencies:
-
 ```bash
 pip install streamlit tensorflow
 
 2. Run the application:
-
-
-
 streamlit run app.py
-
-
 ---
-
 Live Demo
-
 [Click here to open the live app](https://ai-for-software-wk-7-9td7dampidgqhgvrueuzgs.streamlit.app/)
-
-
 ---
 
 License
