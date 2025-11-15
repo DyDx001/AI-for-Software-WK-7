@@ -1,55 +1,39 @@
+# 🚀 AI for Software Engineering: Practical Showcase
 
-# AI for Software Engineering: Practical Showcase
+Explore hands-on AI projects in software engineering, focusing on **Edge AI** and **AI-driven IoT**.  
 
-This Streamlit web application demonstrates practical projects for the **AI for Software Engineering** module. It highlights two key areas of AI in modern software systems: **Edge AI** and **AI-driven IoT concepts**.
-
----
-
-## Author
-
-**Afolabi Abdulahi**  
-Ikole, Ekiti, Nigeria
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://ai-for-software-wk-7-9td7dampidgqhgvrueuzgs.streamlit.app/)
 
 ---
 
-## Overview
+## 👨‍💻 Author
 
-This application showcases two main projects:
+**Afolabi Abdulahi** – Ikole, Ekiti, Nigeria
+
+---
+
+## 📂 Projects
 
 ### 1. Edge AI Prototype
-- Demonstrates a lightweight TFLite model running live inference on sample images.
-- Simulates how a smart device (e.g., Raspberry Pi) can operate offline for AI inference.
+- Lightweight TFLite model running on sample images.  
+- Simulates offline AI inference on devices like Raspberry Pi.
 
 ### 2. AI-Driven IoT Concept
-- Outlines a complete system architecture for a Smart Agriculture platform.
-- From sensor data collection to AI-driven yield predictions, this project demonstrates end-to-end IoT intelligence.
+- Smart Agriculture platform: sensor data → AI yield predictions.  
+- End-to-end IoT intelligence demonstration.
 
 ---
 
-## Features
+## ✨ Features
 
-- Lightweight AI model deployment for edge devices.
-- IoT system architecture design for practical AI applications.
-- Interactive web interface powered by Streamlit.
-- Step-by-step navigation for each project via sidebar.
+- Edge AI deployment on low-power devices.  
+- IoT system architecture for practical AI applications.  
+- Interactive **Streamlit** interface with sidebar navigation.
 
 ---
 
-## Deployment to Raspberry Pi
+## ⚡ Deploy on Raspberry Pi
 
-To deploy the Edge AI prototype on a Raspberry Pi:
-
-1. Install dependencies:
 ```bash
 pip install streamlit tensorflow
-
-2. Run the application:
 streamlit run app.py
----
-Live Demo
-[Click here to open the live app](https://ai-for-software-wk-7-9td7dampidgqhgvrueuzgs.streamlit.app/)
----
-
-License
-
-This project is open-source and free to use for educational purposes.
